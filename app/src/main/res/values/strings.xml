@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LA5</string>
+    <string name="info">
+        keren
+    </string>
+    <string-array name="isi_spinner">
+        <item>Judul</item>
+        <item>website1</item>
+        <item>website2</item>
+    </string-array>
+</resources>

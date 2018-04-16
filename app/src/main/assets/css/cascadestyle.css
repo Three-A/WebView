@@ -1,0 +1,23 @@
+@font-face{
+   font-family:'century';
+   src: url('file:///android_asset/fonts/centuryg.ttf');
+}
+div{
+    font-family:'century';
+}
+p{
+    padding: 0px 5px 5px 5px;
+}
+.indeks{
+    text-align: justify;
+    text-justify: inter-word;
+ }
+
+.img{
+      display: block;
+      width: 100%;
+      height: 50%;
+}
+.footer{
+    font-size:8px;
+}
